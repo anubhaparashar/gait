@@ -515,6 +515,17 @@ mark,
   content: "— ";
 }
 
+.searchbar
+{
+  height: 50px;
+  padding: 5px;
+  margin: 3px;
+  float: right;
+
+
+}
+
+
 .img-fluid {
   max-width: 100%;
   height: auto;
